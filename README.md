@@ -2,7 +2,7 @@
 
 Este é um projeto de página estática desenvolvido como parte do curso "HTML5 e CSS3" da Alura. O objetivo do curso é ensinar os fundamentos do desenvolvimento web, incluindo a estrutura básica de arquivos HTML, a estilização de elementos com CSS, a criação de páginas web e a manipulação de bordas e pseudo-classes CSS.
 
-**[Acesse aqui o Alura-Smart-Bank pelo Vercel](https://alura-smart-bank-tau.vercel.app/)**
+**[Acesse aqui o Alura-Barbershop pelo Vercel](https://alura-barbershop-ten.vercel.app/)**
 
 ## Como clonar o repositório
 
