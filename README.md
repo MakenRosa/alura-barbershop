@@ -6,7 +6,7 @@ Este é um projeto de página estática desenvolvido como parte dos seguintes cu
 - HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas. (8 horas, 58%)
 - HTML5 e CSS3 parte 4: Avançando no CSS. (8 horas, 0%)
 
-O objetivo dos cursos é ensinar os fundamentos do desenvolvimento web, incluindo a estrutura básica de arquivos HTML, a estilização de elementos com CSS, a criação de páginas web e a manipulação de bordas e pseudo-classes CSS.
+Os cursos oferecidos ensinam HTML e CSS para desenvolvimento de páginas web. Os alunos aprenderão desde o básico, como estrutura de arquivos HTML e definição de estilos usando CSS, até tópicos avançados, como criação de formulários complexos e uso de seletores CSS avançados. Eles também aprenderão sobre design responsivo e importação de conteúdo externo. Ao concluir os cursos, os alunos estarão aptos a criar páginas web profissionais e responsivas.
 
 **[Acesse aqui o Alura-Barbershop pelo Vercel](https://alura-barbershop-ten.vercel.app/)**
 
