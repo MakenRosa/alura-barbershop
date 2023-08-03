@@ -1,4 +1,4 @@
-# Alura-Barbershop
+# Barbershop
 
 Este é um projeto de página estática desenvolvido como parte dos seguintes cursos da Alura:
 - HTML5 e CSS3 parte 1: crie uma página da Web. (8 horas, Concluído)
@@ -8,7 +8,7 @@ Este é um projeto de página estática desenvolvido como parte dos seguintes cu
 
 Os cursos oferecidos ensinam HTML e CSS para desenvolvimento de páginas web. Os alunos aprenderão desde o básico, como estrutura de arquivos HTML e definição de estilos usando CSS, até tópicos avançados, como criação de formulários complexos e uso de seletores CSS avançados. Eles também aprenderão sobre design responsivo e importação de conteúdo externo. Ao concluir os cursos, os alunos estarão aptos a criar páginas web profissionais e responsivas.
 
-**[Acesse aqui o Alura-Barbershop pelo Vercel](https://alura-barbershop-ten.vercel.app/)**
+**[Acesse aqui o Barbershop pelo Vercel](https://makenrosa.github.io/barbershop/)**
 
 ## Como clonar o repositório
 
@@ -23,7 +23,7 @@ Siga as etapas abaixo para clonar este repositório e executar o projeto em sua 
 4. Execute o seguinte comando para clonar o repositório:
 
 ```bash
-git clone https://github.com/makenrosa/alura-barbershop.git
+git clone https://github.com/makenrosa/barbershop.git
 ```
 
 5. Após o término do processo de clonagem, você terá uma cópia local do repositório em seu computador.
@@ -44,7 +44,7 @@ Siga as etapas abaixo para executar o projeto:
 
 A estrutura básica do projeto é a seguinte:
 
-```Alura-Barbershop/
+```Barbershop/
 ├── index.html
 ├── products.html
 ├── contact.html
@@ -90,6 +90,6 @@ Certifique-se de que todos esses arquivos estejam presentes na estrutura correta
 
 Este é um projeto desenvolvido como parte de um curso da Alura e, portanto, não é aberto para contribuições externas no momento. No entanto, sinta-se à vontade para fazer um fork deste repositório e personalizá-lo conforme suas necessidades.
 
-Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma [issue](https://github.com/makenrosa/alura-barbershop/issues) neste repositório.
+Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma [issue](https://github.com/makenrosa/barbershop/issues) neste repositório.
 
 Aproveite o projeto! Se tiver alguma dúvida, não hesite em entrar em contato.
