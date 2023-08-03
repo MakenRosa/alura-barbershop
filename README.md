@@ -8,7 +8,7 @@ Este é um projeto de página estática desenvolvido como parte dos seguintes cu
 
 Os cursos oferecidos ensinam HTML e CSS para desenvolvimento de páginas web. Os alunos aprenderão desde o básico, como estrutura de arquivos HTML e definição de estilos usando CSS, até tópicos avançados, como criação de formulários complexos e uso de seletores CSS avançados. Eles também aprenderão sobre design responsivo e importação de conteúdo externo. Ao concluir os cursos, os alunos estarão aptos a criar páginas web profissionais e responsivas.
 
-**[Acesse aqui o Barbershop pelo Vercel](https://makenrosa.github.io/barbershop/)**
+**[Acesse aqui o Barbershop pelo Github Pages](https://makenrosa.github.io/barbershop/)**
 
 ## Como clonar o repositório
 
